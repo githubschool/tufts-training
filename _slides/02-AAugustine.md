@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Welcome to GitHub for Developers Training! Octocats Unite!
 
 ![jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
 {: .center}
