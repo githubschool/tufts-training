@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-My First Code Change
+Changing the caption locally
 
 ![Robotocat](https://octodex.github.com/images/Robotocat.png)
 {: .center}
